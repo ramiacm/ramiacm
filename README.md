@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ramiacm
+- 👋 Hi, I’m Ram Filci
 - 👀 I’m interested in python and web-dev and AI
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
